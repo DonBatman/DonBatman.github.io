@@ -19,7 +19,7 @@
 
 <!--Header-->
 <div id="header">
-<h1>MyMods by Don</h1>
+<h1>MyMods for</h1>
 </div>
 <!--Menu-->
 <div id="menu">
@@ -60,11 +60,21 @@
 <!--Main Section-->
 <div id="main">
 
+<h2>mysponge</h2>
+<br>
+<img src="images/mysponge/top.png">
 <div class="bottomRight">
 <div class="content">
-<h2>myeavestrough</h2>
 <p>
-<img src="images/underconstrution.png">
+mysponge is a fun little mod the allows you to craft a sponge. When you place the sponge in the water it soaks up the water. Put the sponge into the furnace and it will dry out the sponge. When it dries it will give you back a dry sponge and water.
+
+<br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?t=11539&p=173497">mysponge</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mysponge">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mysponge/archive/master.zip">mysponge.zip</a></li>
+</ul>
 <br>
 
 

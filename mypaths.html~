@@ -60,11 +60,20 @@
 <!--Main Section-->
 <div id="main">
 
+<h2>mypaths</h2>
+<br>
+<img src="images/mypaths/top.png">
 <div class="bottomRight">
 <div class="content">
-<h2>mypaths</h2>
 <p>
-<img src="images/underconstrution.png">
+mypaths adds a dirt path to Minetest. It adds dirt with different configurations of grass to make paths that look great.
+<br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=11388">mypaths</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mypaths">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mypaths/archive/master.zip">mypaths.zip</a></li>
+</ul>
 <br>
 
 

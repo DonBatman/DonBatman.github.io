@@ -9,29 +9,6 @@
 <title>Mods by Don</title>
 <link href="stylin.css" rel="stylesheet" type="text/css" />
 
-<!--
-The following are CSS Conditional Comments to fix 
-IE's min-height non-existence and also, the fact 
-that serif fonts do not render exactly the same 
-size in all browsers. "lt IE 6" is equivalent to 
-"less than IE 6". -ubik
--->
-
-<!--[if lt IE 6]>
-<style type="text/css">
-.content {height:250px}
-#main {height:400px}
-h1 {font-size:50px}
-</style>
-<![endif]-->
-
-<!--[if IE 6]>
-<style type="text/css">
-.content {height:190px}
-#main {height:400px}
-h1 {font-size:55px}
-</style>
-<![endif]-->
 
 </head>
 
@@ -41,15 +18,16 @@ h1 {font-size:55px}
 
 <div id="header">
 <h1>Mymods for</h1>
-</div>
 
+<img class="mypic" src="images/redlight.png">
+
+</div>
 <div id="menu">
 <a class="item" href="index.html">Home</a>
 <a class="item" href="mymods.html">My Mods</a>
 <a class="item" href="favmods.html">Mods I like</a>
 <a class="item" href="server.html">My Server</a>
 <a class="item" href="http://minetest.net">Minetest</a>
-
 
 <div class="leftbox">
 <h4>Top MyMods</h4>
@@ -90,6 +68,9 @@ and "content" containers, for the box effect. -->
 This site focuses on my contributions to the minetest community. Click on the My Mods link to see the mods I have made.
 You can also click on the Mods I like link to see mods from othe people that I think are amazing.
 My server is not up at the moment but I will update the site when it is.
+<br>
+<br>
+All my work is free and opensource. Download it, use it, share it or modify it all you want. Just do not use it to make money.
 </p>
 </div>
 </div>
@@ -99,7 +80,11 @@ My server is not up at the moment but I will update the site when it is.
 <div class="content">
 <h2>My Latest Project</h2>
 <p>
-I will put the latest project here!
+My latest project is mystreets. I have been slowly adding to it and making sure it has what is needed for to make nice streets.
+<br>
+Next I am going to add machines to make asphalt and paint. I might add a machine for signs as well. I also need to add a streetname sign.
+<br>
+You can download everything so far at <a href="https://github.com/DonBatman/mystreets">mystreets</a>
 </p>
 
 </div>

@@ -61,11 +61,11 @@
 <div id="main">
 
 <h2>mysoffit</h2>
+<br>
+<img src="images/mysoffit/top.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-<img src="images/mysoffit/top.png">
-<br>
 mysoffit adds soffit to Minetest. Make a machine and then start adding sofit to your house. Makes a nice white soffit.
 <br>
 <br>

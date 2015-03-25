@@ -61,11 +61,11 @@
 <div id="main">
 
 <h2>mycorners</h2>
+<br>
+<img src="images/mycorners/top.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-<img src="images/mycorners/top.png">
-<br>
 mycorners adds corners to many default blocks in minetest.
 
 To use simply craft a corner machine. Then put in wood, stone or stone brick. Click Make. This gives you your corner items.

@@ -19,7 +19,7 @@
 
 <!--Header-->
 <div id="header">
-<h1>MyMods by Don</h1>
+<h1>MyMods for</h1>
 </div>
 <!--Menu-->
 <div id="menu">
@@ -64,10 +64,52 @@
 <div class="content">
 <h2>worldedge</h2>
 <p>
-<img src="images/underconstrution.png">
+worldedge is a mod that teleports the player to the other side of the world when they reach the edge.
 <br>
-
-
+<br>
+When the player walks past 30000 in any direction they will be teleported to the other side of the world as if they walked around the world.
+<br>
+<br>
+Krock has made it so when you teleport to the other side you will be at ground height.
+<br>
+<br>
+This mod was created by Amaz, modified by Krock And maintained by Don. 
+<br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=10753">worldedge</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/worldedge">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/worldedge/archive/master.zip">worldedge.zip</a></li>
+</ul>
+<br>
+<br>
+You can open the init.lua file and edit the top to make the world smaller. 
+<br>
+Just change the 2 lines below. Please note that the newedge needs to be less then the edge. If they are the same then the player will get stuck in a teleport loop. If you want it smaller then change the 30000 and the 29995.
+<br>
+<br>
+At the top of the file you will see these lines. Do not edit the first one. Change the numbers in the second and third lines.
+<br>
+<br>
+local count = 0 --Do not change this
+<br>
+local edge = 30000 --sets the edge of map
+<br>
+local newedge = 29995 --sets the other side where player teleports to. 
+<br>
+<br>
+Here is an example of a map that is only 10000 blocks wide instead of 60000. (the number you see in the file is half of the width of the map).
+<br>
+<br>
+<div class=code>
+local count = 0 --Do not change this
+<br>
+local edge = 5000 --sets the edge of map
+<br>
+local newedge = 4995 --sets the other side where player teleports to. 
+</div>
+<br>
+<br>
 </p>
 </div>
 </div>

@@ -19,7 +19,7 @@
 
 <!--Header-->
 <div id="header">
-<h1>MyMods by Don</h1>
+<h1>MyMods for</h1>
 </div>
 <!--Menu-->
 <div id="menu">
@@ -68,6 +68,13 @@
 <br>
 mymillwork adds millwork items to Minetest.<br>
  It adds crownmould, beams, columns and baseboards.
+<br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=10425">mymillwork</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mymillwork">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mymillwork/archive/master.zip">mymillwork.zip</a></li>
+</ul>
 <br>
 <br>
 To make the items you need to craft a machine.<br>

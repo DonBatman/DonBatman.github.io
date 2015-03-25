@@ -19,7 +19,7 @@
 
 <!--Header-->
 <div id="header">
-<h1>MyMods by Don</h1>
+<h1>MyMods for</h1>
 </div>
 <!--Menu-->
 <div id="menu">
@@ -60,12 +60,21 @@
 <!--Main Section-->
 <div id="main">
 
+<h2>mywoodslopes</h2>
+<br>
+<img src="images/mywoodslopes/top.png">
 <div class="bottomRight">
 <div class="content">
-<h2>myeavestrough</h2>
 <p>
-<img src="images/underconstrution.png">
+mywoodslopes turns the default wood into a slope. It does woo, jungle wood and pine wood.
+These slopes are great for making roofs or sloped walkways.
 <br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=11433">mywoodslopes</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mywoodslopes">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mywoodslopes/archive/master.zip">myeavestrough.zip</a></li>
+</ul>
 
 
 </p>

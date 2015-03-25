@@ -61,10 +61,11 @@
 <div id="main">
 
 <h2>myeavestrough</h2>
+<br>
+<img src="images/myeavestrough/top.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-<img src="images/myeavestrough/top.png">
 myeavestrough adds eavestrough and downspouts to Minetest. Just make a machine and start adding rain gutters to your buildings.
 <br>
 <br>
