@@ -88,18 +88,20 @@ and "content" containers, for the box effect. -->
 <h2>My Mods</h2>
 <p>
 <ul>
-<li><a href="mymillwork.html">mymillork</a></li>
-<li><a href="mycorners.html">mycorners</a></li>
-<li><a href="myeavestrough.html">myeavestrough</a></li>
-<li><a href="mysoffit.html">mysoffit</a></li>
-<li><a href="mypaths.html">mypaths</a></li>
 <li><a href="mybricks.html">mybricks</a></li>
+<li><a href="mycorners.html">mycorners</a></li>
 <li><a href="mydoors.html">mydoors</a></li>
+<li><a href="myeavestrough.html">myeavestrough</a></li>
+<!--<li><a href="myholeinthewall.html">myholeinthewall</a></li>-->
 <li><a href="mymeshnodes.html">mymeshnodes</a></li>
+<li><a href="mymineshaft.html">mymineshaft</a></li>
+<li><a href="mymillwork.html">mymillork</a></li>
 <li><a href="mymulch.html">mymulch</a></li>
+<li><a href="mypaths.html">mypaths</a></li>
 <li><a href="myroofs.html">myroofs</a></li>
 <li><a href="mysponge.html">mysponge</a></li>
 <!--<li><a href="myslopes.html">myslopes</a></li>-->
+<li><a href="mysoffit.html">mysoffit</a></li>
 <!--<li><a href="mystreets.html">mystreets</a></li>-->
 <li><a href="mywoodslopes.html">mywoodslopes</a></li>
 <li><a href="worldedge.html">worldedge</a></li>
