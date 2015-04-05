@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="My Mods for Minetest" />
+<meta name="keywords" content="minetest, mymods, batman, donbatman, mycorners" />
+<meta name="author" content="Don" />
+<title>MyMods by Don</title>
+<link href="stylin.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+
+<!--Body-->
+<body>
+<div id="container">
+
+<!--Header-->
+<div id="header">
+<h1>MyMods for</h1>
+</div>
+<!--Menu-->
+<div id="menu">
+<a class="item" href="index.html">Home</a>
+<a class="item" href="mymods.html">My Mods</a>
+<a class="item" href="favmods.html">Mods I like</a>
+<a class="item" href="server.html">My Server</a>
+
+
+<!--Leftside-->
+<div class="leftbox">
+<h4>Top MyMods</h4>
+<ul>
+<li><a href="mymillwork.html">mymillwork</a></li>
+<li><a href="mycorners.html">mycorners</a></li>
+<li><a href="mypaths.html">mypaths</a></li>
+</ul>
+</div>
+
+ 
+<div class="leftbox">
+<h4>Top Minetest Mods</h4>
+<ul>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=4394">moretrees</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=509">moreblocks</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2538">technic</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?t=628">mesecons</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2155">pipeworks</a></li>
+</ul>
+</div>
+
+</div> 
+
+
+<!--End "Menu" and left column -->
+
+
+<!--Main Section-->
+<div id="main">
+
+<h2>mybricks</h2>
+<br>
+<img src="images/mybricks/top.png">
+<div class="bottomRight">
+<div class="content">
+<p>
+mybricks adds lines to many blocks to make them look like bricks. You make a brick machine, add the blocks you want turned into bricks, click the style of brick you want and take your bricks.
+<br>
+<br>
+<ul>
+<li>Minetest Forum Link - <a href="">mybricks</a> (Not yet on the forum)</li>
+<li>Github Link - <a href="https://github.com/DonBatman/mybricks">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mybricks/archive/master.zip">mybricks.zip</a></li>
+</ul>
+<br>
+<br>
+<br>
+
+
+</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<!--If you have many links, you can edit the margin-left in "#footer a" in the CSS--> 
+<div id="footer">
+<a href="index.html">Home</a>
+<a href="mymods.html">My Mods</a>
+<a href="favmods.html">Mods I Like</a>
+<a href="server.html">My Server</a>
+
+
+</div>
+
+</div>
+</body>
+</html>
