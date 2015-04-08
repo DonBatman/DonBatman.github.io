@@ -23,7 +23,7 @@
 </div>
 
 
-<iframe src="http://108.94.133.186/?zoom=5&lat=-26776&lon=23160&layers=B" width = "100%" height = 600"></iframe>
+<iframe src="http://108.94.133.186/" width = "100%" height = 600"></iframe>
 <div id="footer">
 <a href="index.html">Home</a>
 <a href="mymods.html">My Mods</a>
