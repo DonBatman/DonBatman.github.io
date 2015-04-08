@@ -79,7 +79,7 @@ Below is a zoomable map of Minetest Ville.
 </div>
 <h2>Minetest Ville Map</h2>
 
-<a href="server_map.html">click here for bigger map</a>
+<h5><a href="server_map.html">click here for bigger map</a></h5>
 <div class="bottomRight">
 <div class="content">
 <iframe src="http://108.94.133.186/" width = "650" height = 500"></iframe>

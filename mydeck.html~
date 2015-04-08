@@ -60,19 +60,19 @@
 <!--Main Section-->
 <div id="main">
 
-<h2>mybricks</h2>
+<h2>mydeck</h2>
 <br>
-<img src="images/mybricks/top.png">
+<img src="images/mydeck/top.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-mybricks adds lines to many blocks to make them look like bricks. You make a brick machine, add the blocks you want turned into bricks, click the style of brick you want and take your bricks.
+mydeck is a mod for minetest that allows you to add realistic looking decks. To build them craft a machine and make the parts. 
 <br>
 <br>
 <ul>
-<li>Minetest Forum Link - <a href="">mybricks</a> (Not yet on the forum)</li>
-<li>Github Link - <a href="https://github.com/DonBatman/mybricks">Veiw Code</a></li>
-<li>Direct Download - <a href="https://github.com/DonBatman/mybricks/archive/master.zip">mybricks.zip</a></li>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=11729">mydeck</a> </li>
+<li>Github Link - <a href="https://github.com/DonBatman/mydeck">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mydeck/archive/master.zip">mydeck.zip</a></li>
 </ul>
 <br>
 <br>

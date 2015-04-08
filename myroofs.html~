@@ -33,7 +33,6 @@
 <div class="leftbox">
 <h4>Top MyMods</h4>
 <ul>
-<li><a href="mydeck.html">mydeck</a></li>
 <li><a href="mymillwork.html">mymillwork</a></li>
 <li><a href="mycorners.html">mycorners</a></li>
 <li><a href="mypaths.html">mypaths</a></li>
@@ -61,49 +60,21 @@
 <!--Main Section-->
 <div id="main">
 
-<h2>mycorners</h2>
-<br>
-<img src="images/mycorners/top.png">
+<h2>myroofs</h2>
+<img src="images/myroofs/top.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-mycorners adds corners to many default blocks in minetest.
-
-To use simply craft a corner machine. Then put in wood, stone or stone brick. Click Make. This gives you your corner items.
-Then craft a corner installer machine. Put in the block you want a corner on and the corner items you want installed. Click Make.
+myroofs adds sloped roof to Minetest. These are meshnode slopes so it gives you a nice smooth roof.
 <br>
 <br>
 <ul>
-<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?t=11363&p=172015">mycorners</a></li>
-<li>Github Link - <a href="https://github.com/DonBatman/mycorners">Veiw Code</a></li>
-<li>Direct Download - <a href="https://github.com/DonBatman/mycorners/archive/master.zip">mycorners.zip</a></li>
+<li>Minetest Forum Link - <a href="">myroofs</a>(not on forum yet)</li>
+<li>Github Link - <a href="https://github.com/DonBatman/myroofs">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/myroofs/archive/master.zip">myroofs.zip</a></li>
 </ul>
 <br>
-<br>
-Craft<br>
--------<br>
-Corner Machine<br>
---------------<br>
-  	BLANK , 	default:steel_ingiot , 		default:wood<br>
-default:steelblock , 	default:steelblock , 	 		BLANK<br>
-default:steelblock , 	default:steelblock			BLANK<br><br>
 
-Corner Installer Machine<br>
---------------<br>
-  	Blank , 		BLANK ,      default:wood<br>
-default:steelblock , 	default:steelblock , BLANK<br>
-default:steelblock , 	default:steelblock , BLANK<br>
-<br>
-<br>
-Once you have the machine made place it somewhere.<br>
-Right click on it. <br>
-In the input slot add the material you want to make into millwork.<br>
-Many default blocks are supported.<br>
-Then click on the item you want made.<br>
-It should show up in the output slot. If it doesn't then you can not make millwork out of it.<br>
-Once the item is in the output slot you simply take it and put it into your inventory.
-<br>
-<br>
 
 </p>
 </div>

@@ -43,7 +43,6 @@ h1 {font-size:55px}
 <h1>MyMods for</h1>
 </div>
 
-<!-- Just add new links with the class "item" for more menu items -->
 <div id="menu">
 <a class="item" href="index.html">Home</a>
 <a class="item" href="mymods.html">My Mods</a>
@@ -86,33 +85,73 @@ and "content" containers, for the box effect. -->
 
 <div class="bottomRight">
 <div class="content">
-<h2>My Mods</h2>
+<h2>Mods I Like</h2>
 <p>
+This is a list of mods that I think are great. There are many mods for Minetest that are great but I will not list them all. 
 <ul>
-<li><a href="mybricks.html">mybricks</a></li>
-<li><a href="mycorners.html">mycorners</a></li>
-<li><a href="mydeck.html">mydeck</a></li>
-<li><a href="mydoors.html">mydoors</a></li>
-<li><a href="myeavestrough.html">myeavestrough</a></li>
-<li><a href="myholeinthewall.html">myholeinthewall</a></li>
-<li><a href="mymeshnodes.html">mymeshnodes</a></li>
-<li><a href="mymineshaft.html">mymineshaft</a></li>
-<li><a href="mymillwork.html">mymillork</a></li>
-<li><a href="mymulch.html">mymulch</a></li>
-<li><a href="mypaths.html">mypaths</a></li>
-<li><a href="myroofs.html">myroofs</a></li>
-<li><a href="mysponge.html">mysponge</a></li>
-<!--<li><a href="myslopes.html">myslopes</a></li>-->
-<li><a href="mysoffit.html">mysoffit</a></li>
-<!--<li><a href="mystreets.html">mystreets</a></li>-->
-<li><a href="mywoodslopes.html">mywoodslopes</a></li>
-<li><a href="worldedge.html">worldedge</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=4394">moretrees</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=509">moreblocks</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2538">technic</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?t=628">mesecons</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2155">pipeworks</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2155">areas</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2155">markers</a></li>
+<li><a href="https://forum.minetest.net/viewtopic.php?id=2155">worldedit</a></li>
 </ul>
 </p>
 </div>
 </div>
 
 
+<div class="bottomRight">
+<div class="content">
+<h2><a href="https://forum.minetest.net/viewtopic.php?id=4394">moretrees</a></h2>
+<p>
+moretrees adds a number of trees to minetest
+</p>
+
+</div>
+</div>
+
+<div class="bottomRight">
+<div class="content">
+<h2><a href="https://forum.minetest.net/viewtopic.php?id=509">moreblocks</a></h2>
+<p>
+I will work on this later
+</p>
+
+</div>
+</div>
+
+<div class="bottomRight">
+<div class="content">
+<h2><a href="https://forum.minetest.net/viewtopic.php?id=2538">technic</a></h2>
+<p>
+I will work on this later
+</p>
+
+</div>
+</div>
+
+<div class="bottomRight">
+<div class="content">
+<h2><a href="https://forum.minetest.net/viewtopic.php?t=628">mesecons</a></h2>
+<p>
+I will work on this later
+</p>
+
+</div>
+</div>
+
+<div class="bottomRight">
+<div class="content">
+<h2><a href="https://forum.minetest.net/viewtopic.php?id=2155">pipeworks</a></h2>
+<p>
+I will work on this later
+</p>
+
+</div>
+</div>
 
 
 </div>

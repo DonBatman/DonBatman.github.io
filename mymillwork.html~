@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Language" content="en-us" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="My Mods for Minetest" />
-<meta name="keywords" content="minetest, mymods, batman, donbatman, mycorners" />
+<meta name="keywords" content="minetest, mymods, batman, donbatman, mymillwork" />
 <meta name="author" content="Don" />
 <title>MyMods by Don</title>
 <link href="stylin.css" rel="stylesheet" type="text/css" />
@@ -33,7 +33,6 @@
 <div class="leftbox">
 <h4>Top MyMods</h4>
 <ul>
-<li><a href="mydeck.html">mydeck</a></li>
 <li><a href="mymillwork.html">mymillwork</a></li>
 <li><a href="mycorners.html">mycorners</a></li>
 <li><a href="mypaths.html">mypaths</a></li>
@@ -61,38 +60,34 @@
 <!--Main Section-->
 <div id="main">
 
-<h2>mycorners</h2>
+<h2>mymillwork</h2>
 <br>
-<img src="images/mycorners/top.png">
+<img src="images/mymillwork/top1.png">
 <div class="bottomRight">
 <div class="content">
 <p>
-mycorners adds corners to many default blocks in minetest.
-
-To use simply craft a corner machine. Then put in wood, stone or stone brick. Click Make. This gives you your corner items.
-Then craft a corner installer machine. Put in the block you want a corner on and the corner items you want installed. Click Make.
+<br>
+mymillwork adds millwork items to Minetest.<br>
+ It adds crownmould, beams, columns and baseboards.
 <br>
 <br>
 <ul>
-<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?t=11363&p=172015">mycorners</a></li>
-<li>Github Link - <a href="https://github.com/DonBatman/mycorners">Veiw Code</a></li>
-<li>Direct Download - <a href="https://github.com/DonBatman/mycorners/archive/master.zip">mycorners.zip</a></li>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=10425">mymillwork</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mymillwork">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mymillwork/archive/master.zip">mymillwork.zip</a></li>
 </ul>
 <br>
 <br>
-Craft<br>
--------<br>
-Corner Machine<br>
---------------<br>
-  	BLANK , 	default:steel_ingiot , 		default:wood<br>
-default:steelblock , 	default:steelblock , 	 		BLANK<br>
-default:steelblock , 	default:steelblock			BLANK<br><br>
-
-Corner Installer Machine<br>
---------------<br>
-  	Blank , 		BLANK ,      default:wood<br>
-default:steelblock , 	default:steelblock , BLANK<br>
-default:steelblock , 	default:steelblock , BLANK<br>
+To make the items you need to craft a machine.<br>
+Go into your inventory and add these items.
+<br>
+<br>
+steelblock, steelblock, steelblock<br>
+steelblock, steel_ingot, steelblock<br>
+steelblock, steelblock, steelblock
+<br>
+<br>
+<img src="images/mymillwork/machine.png">
 <br>
 <br>
 Once you have the machine made place it somewhere.<br>
@@ -104,6 +99,15 @@ It should show up in the output slot. If it doesn't then you can not make millwo
 Once the item is in the output slot you simply take it and put it into your inventory.
 <br>
 <br>
+<img src="images/mymillwork/mach_inv.jpg">
+<br>
+<br>
+Here are a few screenshots
+<br>
+<br>
+<img src="images/mymillwork/screen1.png">
+<img src="images/mymillwork/screen2.png">
+<img src="images/mymillwork/screen3.png">
 
 </p>
 </div>
