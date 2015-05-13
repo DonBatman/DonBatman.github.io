@@ -61,22 +61,23 @@
 <!--Main Section-->
 <div id="main">
 
-<h2>mymeshnodes</h2>
-<img src="images/mymeshnodes/top.png">
+<h2>mylandscaping</h2>
+<br>
+<!--<img src="images/mywoodslopes/top.png">-->
+image coming soon
 <div class="bottomRight">
 <div class="content">
 <p>
-mymeshnodes allows you to make a lot of different shapes in Minetest. They are nice smooth meshnodes. Most of the models were done by VanessaE or ExeterDad. Max Cohen has been working on getting more mesh nodes made. These nodes make building more exciting.
-</p>
-<p>
-The latest addition is the 45 degree slope. It allows you to make slopes on a 45 degree angle. Thanks Max for that. They are awesome!
-I also added half blocks. They are nodeboxes but have been a part of noncubic for a while so I thought I would through them in. Maybe Max will make them nodeboxes.
+Mylandscaping is a joint effort of Nathan and I. We worked together to give you a great way to landscape your yard. This mod lets you make retaining walls and patio blocks. It is best if you just watch the video Nathan made and see for yourself.
+</p><p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXmZPBQou7g" frameborder="0" allowfullscreen></iframe>
+</p><p>
+If you liked Nathans video please subscribe and show him some likes. He s working hard on making minetest a great game.
 <ul>
-<li>Minetest Forum Link - <a href="">mymeshnodes</a>(not on forum yet)</li>
-<li>Github Link - <a href="https://github.com/DonBatman/mymeshnodes">Veiw Code</a></li>
-<li>Direct Download - <a href="https://github.com/DonBatman/mymeshnodes/archive/master.zip">mymeshnodes.zip</a></li>
+<li>Minetest Forum Link - <a href="https://forum.minetest.net/viewtopic.php?f=9&t=12094&sid=ba47e1e757923ab682d7169704a49e19">mylandscaping</a></li>
+<li>Github Link - <a href="https://github.com/DonBatman/mylandscaping">Veiw Code</a></li>
+<li>Direct Download - <a href="https://github.com/DonBatman/mylandscaping/archive/master.zip">mylandscaping.zip</a></li>
 </ul>
-<br>
 
 
 </p>
