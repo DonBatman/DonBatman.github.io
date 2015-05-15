@@ -61,19 +61,23 @@
 <!--Main Section-->
 <div id="main">
 
-<h2>Minetest Ville</h2>
+<h2>Server</h2>
 <div class="bottomRight">
 <div class="content">
 <p>
 Minetestville is a great building server. Max started this server and shortly after I joined him in making this a great place. 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jyw1LRiBWcg" frameborder="0" allowfullscreen></iframe>
-<p>
-You can visit our server page on the forum - <a href="https://forum.minetest.net/viewtopic.php?f=10&t=10303">Forum</a>
-<p>
+<br>
+<br>
+Please visit our official website here - <a href="https://minetestville.wordpress.com/">Minetestville</a>
+<br>
+<br>
+Or visit our server page on the forum - <a href="https://forum.minetest.net/viewtopic.php?f=10&t=10303">Forum</a>
+<br>
+<br>
 Server address - 108.94.133.186
 Port number - 30030
-<p>
+<br>
+<br>
 Below is a zoomable map of Minetest Ville. 
 </p>
 </div>
