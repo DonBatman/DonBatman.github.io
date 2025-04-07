@@ -1,2 +1,0 @@
-#Change the amount of colors you can use
-mycorners.allcolors (Set all colors) bool true
