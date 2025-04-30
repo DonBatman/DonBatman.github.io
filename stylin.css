@@ -42,7 +42,23 @@ font:14px verdana,arial,sans-serif;
 color:#fff;
 }
 
+.leftbox2 {
+width:185px;
+background:#000;
+margin:0px 0 0 0;
+padding:0px 0px 0px 0;
+text-align:justify;
+font:14px verdana,arial,sans-serif;
+color:#fff;
+}
+
 .leftbox ul {
+list-style-type:none;
+margin:10px 0 10px 0;
+padding:0;
+}
+
+.leftbox2 ul {
 list-style-type:none;
 margin:10px 0 10px 0;
 padding:0;
@@ -53,6 +69,13 @@ font-weight:bold;
 color:#99cc33;
 letter-spacing:1px;
 text-align:left;
+text-decoration:none;
+}
+.leftbox2 li, .leftbox2 a {
+font-weight:bold;
+color:#99cc33;
+letter-spacing:1px;
+text-align:center;
 text-decoration:none;
 }
 
